@@ -13,3 +13,56 @@
 #064789 -Steel Azure
 
 *********/
+
+
+#brand {
+    font-size: 50px ;
+    color: white !important;
+    text-decoration: bold ;
+}
+
+.light-wrapper {
+    background: #A0A0A0
+}
+
+/**** DARK SECTION COLORIZING ****/
+.dark-wrapper {
+    background: #679436;
+    color: white;
+}
+.dark-wrapper h3 {
+    color: white !important;
+}
+.cbp-filter-container .cbp-filter-item, .sticky-filter ul li {
+    color: white;
+}
+
+.light-wrapper {
+    background: #FFFFFF;
+}
+
+.sup-ben {
+    font-size: 48px;   
+    font-weight: 600;  
+}
+
+/*** HERO SIZER ****/
+.post-parallax .inner {
+	padding: 300px 0 200px 0;
+}
+
+body {
+    overflow-x: hidden;
+    font-size: 15px;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    /* color: #FFFFFF; */
+    font-family: 'Karla', sans-serif;
+    background: #FFFFFF;
+}
+
+#logo {
+    max-width: 120px;
+}
